@@ -1,0 +1,6 @@
+E:\Phase3\PHASE END\Phase3EndProj\Phase3EndProj\bin\Debug\Phase3EndProj.dll
+E:\Phase3\PHASE END\Phase3EndProj\Phase3EndProj\bin\Debug\Phase3EndProj.pdb
+E:\Phase3\PHASE END\Phase3EndProj\Phase3EndProj\obj\Debug\Phase3EndProj.csproj.AssemblyReference.cache
+E:\Phase3\PHASE END\Phase3EndProj\Phase3EndProj\obj\Debug\Phase3EndProj.csproj.CoreCompileInputs.cache
+E:\Phase3\PHASE END\Phase3EndProj\Phase3EndProj\obj\Debug\Phase3EndProj.dll
+E:\Phase3\PHASE END\Phase3EndProj\Phase3EndProj\obj\Debug\Phase3EndProj.pdb
